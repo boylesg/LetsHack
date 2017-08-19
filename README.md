@@ -7,7 +7,7 @@ LetsHack initially started as a collection of notes and howto's that I put toget
 
 Hopefully some of the information here will be useful to some of you out there who might stumble across simliar issues when hacking with your own Raspberry Pi, Arduino, ESP8266 or ESP32. 
 
-!!! Keep hacking !!!
+!!! Keep hacking and have fun !!!
 
 ### HowTos -
 * [Browser Controlled Robot with Streaming Video](/BrowserControlledRobot.md)
